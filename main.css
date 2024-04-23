@@ -378,7 +378,7 @@ h7 {
 }
 
 /* Media query for smaller screens */
-@media (max-width: 576px) {
+@media (max-width: 376px) {
   .navbar-menu {
       display: none;
   }
