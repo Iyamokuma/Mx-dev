@@ -378,7 +378,7 @@ h7 {
 }
 
 /* Media query for smaller screens */
-@media (max-width: 376px) {
+@media (max-width: 576px) {
   .navbar-menu {
       display: none;
   }
@@ -474,7 +474,7 @@ h7 {
       background-color: black;
       position: relative;
       border-radius: 50%;
-      margin-left: 35rem;
+      margin-left: 5rem;
       overflow: hidden;
   }
 
