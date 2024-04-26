@@ -380,6 +380,11 @@ h7 {
 /* Media query for smaller screens */
 @media only screen and (max-width: 500px) {
   
+ .body {
+ 
+  overflow-x: hidden; 
+}
+  
   .navbar-menu {
       display: none;
   }
@@ -475,7 +480,7 @@ h7 {
       background-color: black;
       position: relative;
       border-radius: 50%;
-      margin-left: 28rem;
+      margin-left: 8rem;
       overflow: hidden;
   }
 
