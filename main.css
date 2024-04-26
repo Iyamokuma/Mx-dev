@@ -379,6 +379,12 @@ h7 {
 
 /* Media query for smaller screens */
 @media only screen and (max-width: 600px) {
+  
+body {
+  font-family: Arial, sans-serif;
+  overflow-x: hidden; 
+  overflow-y: scroll;
+}
   .navbar-menu {
       display: none;
   }
